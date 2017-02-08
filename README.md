@@ -1,2 +1,2 @@
 # prueba
-[try me](https://github.com/storresb/index.html)
+[try me](https://storresb.github.io/prueba/)
